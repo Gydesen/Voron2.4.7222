@@ -6,7 +6,7 @@ Mainsail
 
 stealthburner P-DRG
 
-BigTreeTech - MANTA M8P V2.0 https://bttwiki.com/M8P-V2_0.html
+BIGTREETECH MANTA M8P [https://bttwiki.com/M8P-V2_0.html](https://bttwiki.com/M8P.html)
 
 
 ## Calibration
