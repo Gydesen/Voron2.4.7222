@@ -14,3 +14,14 @@ https://ellis3dp.com/Print-Tuning-Guide/
 
  - [x] https://ellis3dp.com/Print-Tuning-Guide/articles/extruder_calibration.html done
  - [ ] https://ellis3dp.com/Print-Tuning-Guide/articles/voron_v2_gantry_squaring.html
+
+G28
+
+BED_MESH_CLEAR
+
+QUAD_GANTRY_LEVEL
+
+G28
+
+PROBE_CALIBRATE
+Move nozzle to 0.1mm
