@@ -10,18 +10,17 @@ BIGTREETECH MANTA M8P [https://bttwiki.com/M8P-V2_0.html](https://bttwiki.com/M8
 
 
 ## Calibration
-https://ellis3dp.com/Print-Tuning-Guide/
 
- - [x] https://ellis3dp.com/Print-Tuning-Guide/articles/extruder_calibration.html done
- - [ ] https://ellis3dp.com/Print-Tuning-Guide/articles/voron_v2_gantry_squaring.html
+### e-steps
 
-G28
+https://ellis3dp.com/Print-Tuning-Guide/articles/extruder_calibration.html
 
-BED_MESH_CLEAR
+### Squish(z offset / z height)
 
-QUAD_GANTRY_LEVEL
+Prope calibrate
+https://www.klipper3d.org/Probe_Calibrate.html#calibrating-probe-z-offset
 
-G28
+print and calibrate
+https://ellis3dp.com/Print-Tuning-Guide/articles/first_layer_squish.html
 
-PROBE_CALIBRATE
-Move nozzle to 0.1mm
+
